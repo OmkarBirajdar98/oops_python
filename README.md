@@ -1,2 +1,3 @@
 # oops_python
-DSA, practice_problem
+this repo consist of end to end oops python mlops concept and dsa
+
